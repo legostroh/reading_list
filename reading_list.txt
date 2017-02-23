@@ -1,0 +1,24 @@
+# reading_list
+
+### pivotal links
+Basic networking guide
+https://hpbn.co
+
+Pivotal Web Services (PWS) - Hosted/Managed PCF
+http://run.pivotal.io/
+https://github.com/cloudfoundry-samples
+
+Iaas/PaaS/SaaS
+Articulate the difference between 
+
+Basic Linux networking
+http://techblog.netflix.com/2015/11/linux-performance-analysis-in-60s.html
+uptime  dmesg | tail vmstat 1  mpstat -P ALL 1  pidstat 1  iostat -xz 1  free -m sar -n DEV 1 sar -n TCP,ETCP 1 top
+http://explainshell.com/
+http://explainshell.com/explain?cmd=tar%20zcf%20-%20some-dir%20%7C%20ssh%20some-server%20%22cd%20/%3B%20tar%20xvzf%20-%22
+
+
+### Articles
+
+Rise and fall of the Gopher protocol
+	https://www.minnpost.com/business/2016/08/rise-and-fall-gopher-protocol
