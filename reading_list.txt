@@ -1,5 +1,9 @@
 # reading_list
 
+###
+https://support.rackspace.com/white-paper/understanding-the-cloud-computing-stack-saas-paas-iaas/
+
+
 ### pivotal links
 Basic networking guide
 https://hpbn.co
